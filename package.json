@@ -1,0 +1,16 @@
+{
+  "name": "dashlo",
+  "version": "1.0.0",
+  "description": "utility package inspired by Lodash",
+  "main": "index.js",
+  "repository": "https://github.com/Theqwertypusher/dashlo.git",
+  "author": "Jason Victor <qwerty920727@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
